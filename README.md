@@ -8,4 +8,8 @@ The image above is a demonstration of how the webite is required to look, from t
 
 One of the first changes that I made was changing the title to 'Horiseon Website', as it was blank in the initial state of the file.
 
-Next, I noticed that a line of code used in the starter HTML could have been replaced with a minimalistic tag instead. "<div class="header">" was replaced with "<header>".
+Next, I noticed that a line of code used in the starter HTML could have been replaced with a minimalistic tag instead. A tag using a "div" and "class=header" can be substituted with "header". Following this, the CSS file needed amending as the class tag had been replaced, so in order to do this I removed the "." from each of the headers in the CSS file.
+
+Just below this, another semantic element that I added was the "nav" tag, to simplify the HTML when editing the code. This is to allow an editor to easily identify where different segments of the site are and swiftly navigate.
+
+
