@@ -15,3 +15,6 @@ All of the changes I made from the HTML file were reflected in the CSS file, ens
 Just below this, another semantic element that I added was the `<nav>` tag, to simplify the HTML when editing the code. This is to allow an editor to easily identify where different segments of the site are and swiftly navigate.
 
 In addition to this, one structural admendment that I made was adjusting the headers. In the updated code, I have changed these so that they can be viewed in a numerical order. The final header was `<h2>`, and before this came `<h3>`. I changed the `<h2>` to `<h4>` and adjusted the CSS file so that the font size appeared the same as `<h2>`.
+
+Use this link to visit the deployed application:
+https://isazafeer.github.io/week1-challenge/
