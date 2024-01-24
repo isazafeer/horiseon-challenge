@@ -12,4 +12,4 @@ Next, I noticed that a line of code used in the starter HTML could have been rep
 
 Just below this, another semantic element that I added was the "nav" tag, to simplify the HTML when editing the code. This is to allow an editor to easily identify where different segments of the site are and swiftly navigate.
 
-
+In addition to this, one structural admendment that I made was adjusting the headers. In the improved code, I have changed these so that they can be viewed in a nmerical order. The final header was "h2", and before this came "h3". I changed the "h2" to "h4" and adjusted the CSS file so that the font size appeared the same as "h2".
